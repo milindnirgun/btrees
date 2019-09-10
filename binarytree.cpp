@@ -14,7 +14,6 @@ int main(){
 	tree->insert(18);
     cout << tree->search(18);
     cout << tree->search(13);
-//ahd
 
 return 0;
 }
