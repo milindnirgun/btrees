@@ -2,6 +2,9 @@
 #include <iostream>
 using namespace std;
 
+/**
+ * Main program for inserting data and searching the binary tree.
+ */
 int main(){
     btree *tree = new btree();
 
